@@ -36,7 +36,7 @@ export default Vue.extend({
   components: { Card, Button },
   methods: {
     banana () {
-      alert('Hello There')
+      alert('Hello World')
     }
   }
 })
